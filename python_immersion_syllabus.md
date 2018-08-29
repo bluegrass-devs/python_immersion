@@ -15,7 +15,7 @@ The 5 initial sections are:
 * **Data Analysis**
     * After processing and formatting the data, this section will cover specialized libraries and techniques for doing data analysis with Python. This will cover basic statistical learning concepts and processes for doing basic manipulation and analysis.
 * **Data Visualization**
-    * The final section will cover topics on visualizing your data. This will cover useful libraries that can display data in simple charts or complex maps.
+    * The final section will cover topics on visualizing your data. This will cover useful libraries that can display data in visualizations ranging from simple charts to complex maps.
 
 The readings for each section are suggested and learners are encouraged to find and use alternative materials to accomplish the learning goals for each section. Understanding that some of the texts can be expensive, free online tutorials and blog posts are more than fine for the purpose of learning and adapting Python to data analysis tasks.
 
@@ -33,9 +33,11 @@ Everyone will work through the materials and help each other in understanding th
 The immersion course learning group will meet based upon a schedule established during the first meeting. Each meeting, we will:
 
 1. Discuss the previous month’s readings
-2. To share experiences with the materials and 3) discuss specific areas of interest for which the learners found challenges in using Python or applying concepts to specific data science tasks.
+2. Share experiences with the materials
+3. Discuss specific areas of interest for which the learners found challenges in using Python or applying concepts to specific data science tasks.
 
-The Bluegrass Developers Guild Slack will be the common place for learners to discuss the immersion course content. Our in-person meeting location will be decided no less than one week prior to each event (usually this will be know at least a month in advance). All in-person events will be scheduled and posted via the Bluegrass Data Science Group Meetup site: https://www.meetup.com/Bluegrass-Data-Science-Group/
+The Bluegrass Developers Guild Slack will be the online common place for learners to discuss the immersion course content.
+Our in-person meeting location will be decided no less than one week prior to each event (usually this will be know at least a month in advance). All in-person events will be scheduled and posted via the Bluegrass Data Science Group Meetup site: https://www.meetup.com/Bluegrass-Data-Science-Group/
 
 Please go here to join the Bluegrass Developers Guild Slack if you are not already invited (invitations will be validated ASAP): https://www.bluegrassdevs.org/ 
 
@@ -62,37 +64,32 @@ Please go here to join the Bluegrass Developers Guild Slack if you are not alrea
 **Section 2**
 
 * Introduction to Python Programming Language
-  * Python Programming: An Introduction to Computer Science by John M. Zelle
-    * http://mcsp.wartburg.edu/zelle/python/
+  * [Python Programming: An Introduction to Computer Science by John M. Zelle](http://mcsp.wartburg.edu/zelle/python/)
     * Introduction if you have NO experience programming
-  * Learning Python by Mark Lutz
-    * http://shop.oreilly.com/product/0636920028154.do
+  * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+    * Introduction if you have NO experience programming
+  * [Learning Python by Mark Lutz](http://shop.oreilly.com/product/0636920028154.do)
     * Should be able to find e-book PDF online
     * If you have experience with programming but are new to Python
-  * Effective Python by Brett Slatkin
-    * http://www.effectivepython.com/
+  * [Effective Python by Brett Slatkin](http://www.effectivepython.com/)
     * Should be able to find e-book PDF online
     * If you have experience with Python but need tutorial on latest updates
 
 **Section 3**
 
 * Data Collection
-  * Python for Data Analysis by Wes McKinney
-    * http://wesmckinney.com/pages/book.html
+  * [Python for Data Analysis by Wes McKinney](http://wesmckinney.com/pages/book.html)
 
 **Section 4**
 
 * Data Analysis
-  * Introduction to Statistical Learning with Python by Thomas Haslwanter
-    * https://github.com/thomas-haslwanter/statsintro_python
-  * Python for Data Analysis by Wes McKinney
-    * http://wesmckinney.com/pages/book.html
+  * [Introduction to Statistical Learning with Python by Thomas Haslwanter](https://github.com/thomas-haslwanter/statsintro_python)
+  * [Python for Data Analysis by Wes McKinney](http://wesmckinney.com/pages/book.html)
 
 **Section 5**
 
 * Data Visualization
-  * Python for Data Analysis by Wes McKinney
-    * http://wesmckinney.com/pages/book.html
+  * [Python for Data Analysis by Wes McKinney](http://wesmckinney.com/pages/book.html)
 
 ### Homework
 
@@ -121,31 +118,38 @@ Please go here to join the Bluegrass Developers Guild Slack if you are not alrea
 **Section 2**
 
 * Python Basics
-  * Zelle’s Intro to CS (Week 1 & 2)
-    * Chapters 1-11, 13 (http://mcsp.wartburg.edu/zelle/python/ppics3/index.html) 
+  * [Zelle’s Intro to CS](http://mcsp.wartburg.edu/zelle/python/ppics3/index.html)
+    * Chapters 1-11, 13 
     * Review slide content
     * Download and practice with sample programs
-  * Python by Mark Lutz (Week 3 & 4)
+  * Automate the Boring Stuff
+    * Chapters 1-10
+  * Python by Mark Lutz (optional)
     * Chapters 4-10, 16, 21, 32, 36
     * Do the end of chapter quizzes
 
 **Section 3**
 
 * Data Collection
-  * 
+  * Python for Data Analysis by Wes McKinney
+    * Chapter 6 & 7
+  * Automate the Boring Stuff
+    * Chapter 11-14
 
 **Section 4**
 
 * Data Analysis 
-  * Introduction to Statistical Learning with Python by Thomas Haslwanter (Weeks 1 & 2)
+  * Introduction to Statistical Learning with Python by Thomas Haslwanter
     * Clone the repo into a virtual environment
     * Run through all the ipynb_slides
     * Run through the ISP and ipynb code samples
-  * Python for Data Analysis by Wes McKinney (Weeks 3 & 4)
-    * Read the whole thing (believe me, it’s worth it)
+  * Python for Data Analysis by Wes McKinney
+    * Chapters 4,5,9,10
+    * Eventually, read the whole thing (believe me, it’s worth it)
     * Work through as much of the code as possible
 
 **Section 5**
 
 * Data Visualization
-  * 
+  * Python for Data Analysis by Wes McKinney
+    * Chapter 8
