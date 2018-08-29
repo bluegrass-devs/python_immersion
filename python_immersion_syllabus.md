@@ -66,7 +66,7 @@ Please go here to join the Bluegrass Developers Guild Slack if you are not alrea
 * Introduction to Python Programming Language
   * [Python Programming: An Introduction to Computer Science by John M. Zelle](http://mcsp.wartburg.edu/zelle/python/)
     * Introduction if you have NO experience programming
-  * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+  * [Automate the Boring Stuff with Python by Al Sweigart](https://automatetheboringstuff.com/)
     * Introduction if you have NO experience programming
   * [Learning Python by Mark Lutz](http://shop.oreilly.com/product/0636920028154.do)
     * Should be able to find e-book PDF online
