@@ -1,6 +1,6 @@
-# Python Data Science Immersion Course - 2018
+# Python Data Science Immersion Course
 
-This is a 5-part course focusing on Python for data science. Each of these sections is meant to discuss the following topic areas:
+This is a course focusing on Python for data science. There are 5 initial sections intended to progress students from zero Python experience to an intermediate level of data analysis:
 
 1. Introduction to Python Programming Language - Part 1
 2. Introduction to Python Programming Language - Part 2
@@ -8,6 +8,8 @@ This is a 5-part course focusing on Python for data science. Each of these secti
 4. Data Analysis
 5. Data Visualization
 
-This is a collaborative learning process; everyone in attendance will learn a topic together throughout the 5 stages outlined above.
+Following sections will focus on machine learning and advanced data topics.
+
+This is a collaborative learning process; everyone in attendance will learn a topic together.
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
