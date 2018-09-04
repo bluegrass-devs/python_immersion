@@ -2,7 +2,7 @@
 
 This is a course focusing on Python for data science. There are 5 initial sections intended to progress students from zero Python experience to an intermediate level of data analysis:
 
-1. [Introduction to Python Programming Language - Part 1](Python_01_Introduction.ipynb)
+1. [Introduction to Python Programming Language - Part 1](notebooks/Python_01_Introduction.ipynb)
 2. Introduction to Python Programming Language - Part 2
 3. Data Collection
 4. Data Analysis
