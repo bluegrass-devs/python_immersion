@@ -64,17 +64,11 @@ Please go here to join the Bluegrass Developers Guild Slack if you are not alrea
 **Section 2**
 
 * Introduction to Python Programming Language
-  * [Python Programming: An Introduction to Computer Science by John M. Zelle](http://mcsp.wartburg.edu/zelle/python/)
-    * Introduction if you have NO experience programming
-  * [Automate the Boring Stuff with Python by Al Sweigart](https://automatetheboringstuff.com/)
-    * Introduction if you have NO experience programming
-  * [Learning Python by Mark Lutz](http://shop.oreilly.com/product/0636920028154.do)
-    * Should be able to find e-book PDF online
-    * If you have experience with programming but are new to Python
-  * [Effective Python by Brett Slatkin](http://www.effectivepython.com/)
-    * Should be able to find e-book PDF online
-    * If you have experience with Python but need tutorial on latest updates
-
+  * Basics
+  * Flow Control
+  * Functions
+  * Data Structures
+  
 **Section 3**
 
 * Data Collection
@@ -118,15 +112,9 @@ Please go here to join the Bluegrass Developers Guild Slack if you are not alrea
 **Section 2**
 
 * Python Basics
-  * [Zelle’s Intro to CS](http://mcsp.wartburg.edu/zelle/python/ppics3/index.html)
-    * Chapters 1-11, 13 
-    * Review slide content
-    * Download and practice with sample programs
-  * Automate the Boring Stuff
-    * Chapters 1-10
-  * Python by Mark Lutz (optional)
-    * Chapters 4-10, 16, 21, 32, 36
-    * Do the end of chapter quizzes
+  * Do the exercises in the Juptyer Notebook
+  * Start reading Python for Data Analysis by Wes McKinney
+    * See GitHub for Notebooks
 
 **Section 3**
 
