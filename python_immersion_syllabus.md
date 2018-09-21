@@ -56,6 +56,10 @@ Please go here to join the Bluegrass Developers Guild Slack if you are not alrea
     * Spyder
     * PyCharm
     * Text editors
+  * VCS
+    * GitHub
+    * GitLab
+    * BitBucket
   * Installing
   * Virtual Environments
   * Resources
