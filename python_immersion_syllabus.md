@@ -98,6 +98,7 @@ Please go here to join the Bluegrass Developers Guild Slack if you are not alrea
   * Install Python 3.5 or higher
   * Install IDE/Text Editor or your choice
   * Setup a virtual environment
+  * Create a GitHub  account and complete basic tutorials
   * Obtain any learning materials you need for learning Python
   * Join the Bluegrass Developers Guild Slack
 
