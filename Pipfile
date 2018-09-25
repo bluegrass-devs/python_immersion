@@ -9,6 +9,7 @@ pandas = "*"
 wordcloud = "*"
 matplotlib = "*"
 numpy = "*"
+requests = "*"
 
 [dev-packages]
 
