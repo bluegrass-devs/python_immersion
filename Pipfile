@@ -10,6 +10,7 @@ wordcloud = "*"
 matplotlib = "*"
 numpy = "*"
 requests = "*"
+datadotworld = "*"
 
 [dev-packages]
 
