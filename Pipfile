@@ -13,6 +13,7 @@ requests = "*"
 datadotworld = "*"
 "beautifulsoup4" = "*"
 lxml = "*"
+pdfx = "*"
 
 [dev-packages]
 

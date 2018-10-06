@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "fc439037c98bbac5f87e8b033208349567f4d510ee20fa48cf19ba81789d60f2"
+            "sha256": "dcc43bf67bda3832ace629f8fbb9997e41a2345bcdb220ffb865d3f6b93b77d5"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -478,6 +478,23 @@
                 "sha256:895c63e93b94ac1e1690f5fdd40b65f07c8171e3e53cbd7793b5b96c0e0a7f24"
             ],
             "version": "==0.3.1"
+        },
+        "pdfminer2": {
+            "hashes": [
+                "sha256:7d05aa3dd1e779080fef13aef454501b51a3f7649d7f18e78c640bdbd34e1e77",
+                "sha256:92fb0639d8d4619be3b87147c89c2170602a8fefc9ef1933241822d3c3aff6e7",
+                "sha256:9c0599bfde105a8d58e3f679c31ab84871dc9bd3debf1be6511e1abaa4db867f",
+                "sha256:e068619af33a3d323093a4dde56ae9e2b1bb344d3ecbc3110e448ba8042acc3e"
+            ],
+            "version": "==20151206"
+        },
+        "pdfx": {
+            "hashes": [
+                "sha256:26d35f1f05a5a272a7fc3de5ec524acb5ac36931ed1df459530dab7166f3d1ac",
+                "sha256:e3b296491879e4cf074fc42b50e9f86f6f8e1ab2628969520837ad348668d8b3"
+            ],
+            "index": "pypi",
+            "version": "==1.3.0"
         },
         "pexpect": {
             "hashes": [
