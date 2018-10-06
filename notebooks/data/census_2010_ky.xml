@@ -1,0 +1,1083 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <id>0500000US21001</id>
+    <geoid>21001</geoid>
+    <label>Adair County, Kentucky</label>
+    <totpop>18656</totpop>
+    <medage>39</medage>
+    <sindads>176</sindads>
+    <sinmoms>422</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21003</id>
+    <geoid>21003</geoid>
+    <label>Allen County, Kentucky</label>
+    <totpop>19956</totpop>
+    <medage>39.2</medage>
+    <sindads>176</sindads>
+    <sinmoms>486</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21005</id>
+    <geoid>21005</geoid>
+    <label>Anderson County, Kentucky</label>
+    <totpop>21421</totpop>
+    <medage>38.4</medage>
+    <sindads>240</sindads>
+    <sinmoms>566</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21007</id>
+    <geoid>21007</geoid>
+    <label>Ballard County, Kentucky</label>
+    <totpop>8249</totpop>
+    <medage>42.4</medage>
+    <sindads>82</sindads>
+    <sinmoms>168</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21009</id>
+    <geoid>21009</geoid>
+    <label>Barren County, Kentucky</label>
+    <totpop>42173</totpop>
+    <medage>39.7</medage>
+    <sindads>414</sindads>
+    <sinmoms>1205</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21011</id>
+    <geoid>21011</geoid>
+    <label>Bath County, Kentucky</label>
+    <totpop>11591</totpop>
+    <medage>39.9</medage>
+    <sindads>117</sindads>
+    <sinmoms>317</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21013</id>
+    <geoid>21013</geoid>
+    <label>Bell County, Kentucky</label>
+    <totpop>28691</totpop>
+    <medage>41</medage>
+    <sindads>285</sindads>
+    <sinmoms>854</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21015</id>
+    <geoid>21015</geoid>
+    <label>Boone County, Kentucky</label>
+    <totpop>118811</totpop>
+    <medage>35.7</medage>
+    <sindads>1199</sindads>
+    <sinmoms>2822</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21017</id>
+    <geoid>21017</geoid>
+    <label>Bourbon County, Kentucky</label>
+    <totpop>19985</totpop>
+    <medage>40.7</medage>
+    <sindads>195</sindads>
+    <sinmoms>628</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21019</id>
+    <geoid>21019</geoid>
+    <label>Boyd County, Kentucky</label>
+    <totpop>49542</totpop>
+    <medage>41.8</medage>
+    <sindads>449</sindads>
+    <sinmoms>1247</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21021</id>
+    <geoid>21021</geoid>
+    <label>Boyle County, Kentucky</label>
+    <totpop>28432</totpop>
+    <medage>40.6</medage>
+    <sindads>262</sindads>
+    <sinmoms>803</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21023</id>
+    <geoid>21023</geoid>
+    <label>Bracken County, Kentucky</label>
+    <totpop>8488</totpop>
+    <medage>39.2</medage>
+    <sindads>106</sindads>
+    <sinmoms>202</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21025</id>
+    <geoid>21025</geoid>
+    <label>Breathitt County, Kentucky</label>
+    <totpop>13878</totpop>
+    <medage>40</medage>
+    <sindads>135</sindads>
+    <sinmoms>309</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21027</id>
+    <geoid>21027</geoid>
+    <label>Breckinridge County, Kentucky</label>
+    <totpop>20059</totpop>
+    <medage>41.6</medage>
+    <sindads>196</sindads>
+    <sinmoms>408</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21029</id>
+    <geoid>21029</geoid>
+    <label>Bullitt County, Kentucky</label>
+    <totpop>74319</totpop>
+    <medage>38.2</medage>
+    <sindads>892</sindads>
+    <sinmoms>1872</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21031</id>
+    <geoid>21031</geoid>
+    <label>Butler County, Kentucky</label>
+    <totpop>12690</totpop>
+    <medage>40.1</medage>
+    <sindads>125</sindads>
+    <sinmoms>320</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21033</id>
+    <geoid>21033</geoid>
+    <label>Caldwell County, Kentucky</label>
+    <totpop>12984</totpop>
+    <medage>42.6</medage>
+    <sindads>133</sindads>
+    <sinmoms>338</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21035</id>
+    <geoid>21035</geoid>
+    <label>Calloway County, Kentucky</label>
+    <totpop>37191</totpop>
+    <medage>34</medage>
+    <sindads>246</sindads>
+    <sinmoms>767</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21037</id>
+    <geoid>21037</geoid>
+    <label>Campbell County, Kentucky</label>
+    <totpop>90336</totpop>
+    <medage>37</medage>
+    <sindads>957</sindads>
+    <sinmoms>2323</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21039</id>
+    <geoid>21039</geoid>
+    <label>Carlisle County, Kentucky</label>
+    <totpop>5104</totpop>
+    <medage>42.9</medage>
+    <sindads>41</sindads>
+    <sinmoms>126</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21041</id>
+    <geoid>21041</geoid>
+    <label>Carroll County, Kentucky</label>
+    <totpop>10811</totpop>
+    <medage>37.6</medage>
+    <sindads>166</sindads>
+    <sinmoms>320</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21043</id>
+    <geoid>21043</geoid>
+    <label>Carter County, Kentucky</label>
+    <totpop>27720</totpop>
+    <medage>39.3</medage>
+    <sindads>272</sindads>
+    <sinmoms>638</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21045</id>
+    <geoid>21045</geoid>
+    <label>Casey County, Kentucky</label>
+    <totpop>15955</totpop>
+    <medage>40.6</medage>
+    <sindads>167</sindads>
+    <sinmoms>358</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21047</id>
+    <geoid>21047</geoid>
+    <label>Christian County, Kentucky</label>
+    <totpop>73955</totpop>
+    <medage>28.9</medage>
+    <sindads>578</sindads>
+    <sinmoms>2881</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21049</id>
+    <geoid>21049</geoid>
+    <label>Clark County, Kentucky</label>
+    <totpop>35613</totpop>
+    <medage>39.8</medage>
+    <sindads>343</sindads>
+    <sinmoms>1056</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21051</id>
+    <geoid>21051</geoid>
+    <label>Clay County, Kentucky</label>
+    <totpop>21730</totpop>
+    <medage>37.7</medage>
+    <sindads>205</sindads>
+    <sinmoms>557</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21053</id>
+    <geoid>21053</geoid>
+    <label>Clinton County, Kentucky</label>
+    <totpop>10272</totpop>
+    <medage>41.6</medage>
+    <sindads>114</sindads>
+    <sinmoms>284</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21055</id>
+    <geoid>21055</geoid>
+    <label>Crittenden County, Kentucky</label>
+    <totpop>9315</totpop>
+    <medage>42.6</medage>
+    <sindads>89</sindads>
+    <sinmoms>180</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21057</id>
+    <geoid>21057</geoid>
+    <label>Cumberland County, Kentucky</label>
+    <totpop>6856</totpop>
+    <medage>43.8</medage>
+    <sindads>82</sindads>
+    <sinmoms>159</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21059</id>
+    <geoid>21059</geoid>
+    <label>Daviess County, Kentucky</label>
+    <totpop>96656</totpop>
+    <medage>38.8</medage>
+    <sindads>902</sindads>
+    <sinmoms>2926</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21061</id>
+    <geoid>21061</geoid>
+    <label>Edmonson County, Kentucky</label>
+    <totpop>12161</totpop>
+    <medage>41.3</medage>
+    <sindads>92</sindads>
+    <sinmoms>253</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21063</id>
+    <geoid>21063</geoid>
+    <label>Elliott County, Kentucky</label>
+    <totpop>7852</totpop>
+    <medage>39.9</medage>
+    <sindads>58</sindads>
+    <sinmoms>165</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21065</id>
+    <geoid>21065</geoid>
+    <label>Estill County, Kentucky</label>
+    <totpop>14672</totpop>
+    <medage>41.3</medage>
+    <sindads>169</sindads>
+    <sinmoms>403</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21067</id>
+    <geoid>21067</geoid>
+    <label>Fayette County, Kentucky</label>
+    <totpop>295803</totpop>
+    <medage>33.7</medage>
+    <sindads>2404</sindads>
+    <sinmoms>8732</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21069</id>
+    <geoid>21069</geoid>
+    <label>Fleming County, Kentucky</label>
+    <totpop>14348</totpop>
+    <medage>40.1</medage>
+    <sindads>139</sindads>
+    <sinmoms>319</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21071</id>
+    <geoid>21071</geoid>
+    <label>Floyd County, Kentucky</label>
+    <totpop>39451</totpop>
+    <medage>39.9</medage>
+    <sindads>375</sindads>
+    <sinmoms>1109</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21073</id>
+    <geoid>21073</geoid>
+    <label>Franklin County, Kentucky</label>
+    <totpop>49285</totpop>
+    <medage>39.8</medage>
+    <sindads>529</sindads>
+    <sinmoms>1634</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21075</id>
+    <geoid>21075</geoid>
+    <label>Fulton County, Kentucky</label>
+    <totpop>6813</totpop>
+    <medage>42.8</medage>
+    <sindads>51</sindads>
+    <sinmoms>241</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21077</id>
+    <geoid>21077</geoid>
+    <label>Gallatin County, Kentucky</label>
+    <totpop>8589</totpop>
+    <medage>37.4</medage>
+    <sindads>120</sindads>
+    <sinmoms>233</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21079</id>
+    <geoid>21079</geoid>
+    <label>Garrard County, Kentucky</label>
+    <totpop>16912</totpop>
+    <medage>41.2</medage>
+    <sindads>167</sindads>
+    <sinmoms>341</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21081</id>
+    <geoid>21081</geoid>
+    <label>Grant County, Kentucky</label>
+    <totpop>24662</totpop>
+    <medage>35.3</medage>
+    <sindads>299</sindads>
+    <sinmoms>696</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21083</id>
+    <geoid>21083</geoid>
+    <label>Graves County, Kentucky</label>
+    <totpop>37121</totpop>
+    <medage>39.8</medage>
+    <sindads>367</sindads>
+    <sinmoms>948</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21085</id>
+    <geoid>21085</geoid>
+    <label>Grayson County, Kentucky</label>
+    <totpop>25746</totpop>
+    <medage>39.7</medage>
+    <sindads>255</sindads>
+    <sinmoms>596</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21087</id>
+    <geoid>21087</geoid>
+    <label>Green County, Kentucky</label>
+    <totpop>11258</totpop>
+    <medage>42.6</medage>
+    <sindads>99</sindads>
+    <sinmoms>227</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21089</id>
+    <geoid>21089</geoid>
+    <label>Greenup County, Kentucky</label>
+    <totpop>36910</totpop>
+    <medage>42</medage>
+    <sindads>308</sindads>
+    <sinmoms>764</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21091</id>
+    <geoid>21091</geoid>
+    <label>Hancock County, Kentucky</label>
+    <totpop>8565</totpop>
+    <medage>39.5</medage>
+    <sindads>99</sindads>
+    <sinmoms>193</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21093</id>
+    <geoid>21093</geoid>
+    <label>Hardin County, Kentucky</label>
+    <totpop>105543</totpop>
+    <medage>35</medage>
+    <sindads>1053</sindads>
+    <sinmoms>3129</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21095</id>
+    <geoid>21095</geoid>
+    <label>Harlan County, Kentucky</label>
+    <totpop>29278</totpop>
+    <medage>40.5</medage>
+    <sindads>275</sindads>
+    <sinmoms>727</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21097</id>
+    <geoid>21097</geoid>
+    <label>Harrison County, Kentucky</label>
+    <totpop>18846</totpop>
+    <medage>40.7</medage>
+    <sindads>208</sindads>
+    <sinmoms>474</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21099</id>
+    <geoid>21099</geoid>
+    <label>Hart County, Kentucky</label>
+    <totpop>18199</totpop>
+    <medage>40.1</medage>
+    <sindads>181</sindads>
+    <sinmoms>399</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21101</id>
+    <geoid>21101</geoid>
+    <label>Henderson County, Kentucky</label>
+    <totpop>46250</totpop>
+    <medage>39.8</medage>
+    <sindads>449</sindads>
+    <sinmoms>1429</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21103</id>
+    <geoid>21103</geoid>
+    <label>Henry County, Kentucky</label>
+    <totpop>15416</totpop>
+    <medage>40.6</medage>
+    <sindads>192</sindads>
+    <sinmoms>374</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21105</id>
+    <geoid>21105</geoid>
+    <label>Hickman County, Kentucky</label>
+    <totpop>4902</totpop>
+    <medage>44.8</medage>
+    <sindads>38</sindads>
+    <sinmoms>119</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21107</id>
+    <geoid>21107</geoid>
+    <label>Hopkins County, Kentucky</label>
+    <totpop>46920</totpop>
+    <medage>40.4</medage>
+    <sindads>444</sindads>
+    <sinmoms>1360</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21109</id>
+    <geoid>21109</geoid>
+    <label>Jackson County, Kentucky</label>
+    <totpop>13494</totpop>
+    <medage>39.5</medage>
+    <sindads>129</sindads>
+    <sinmoms>313</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21111</id>
+    <geoid>21111</geoid>
+    <label>Jefferson County, Kentucky</label>
+    <totpop>741096</totpop>
+    <medage>37.9</medage>
+    <sindads>7246</sindads>
+    <sinmoms>26664</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21113</id>
+    <geoid>21113</geoid>
+    <label>Jessamine County, Kentucky</label>
+    <totpop>48586</totpop>
+    <medage>35.8</medage>
+    <sindads>491</sindads>
+    <sinmoms>1352</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21115</id>
+    <geoid>21115</geoid>
+    <label>Johnson County, Kentucky</label>
+    <totpop>23356</totpop>
+    <medage>40.4</medage>
+    <sindads>185</sindads>
+    <sinmoms>532</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21117</id>
+    <geoid>21117</geoid>
+    <label>Kenton County, Kentucky</label>
+    <totpop>159720</totpop>
+    <medage>36</medage>
+    <sindads>1659</sindads>
+    <sinmoms>4645</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21119</id>
+    <geoid>21119</geoid>
+    <label>Knott County, Kentucky</label>
+    <totpop>16346</totpop>
+    <medage>40.5</medage>
+    <sindads>164</sindads>
+    <sinmoms>367</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21121</id>
+    <geoid>21121</geoid>
+    <label>Knox County, Kentucky</label>
+    <totpop>31883</totpop>
+    <medage>38.5</medage>
+    <sindads>358</sindads>
+    <sinmoms>899</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21123</id>
+    <geoid>21123</geoid>
+    <label>Larue County, Kentucky</label>
+    <totpop>14193</totpop>
+    <medage>40.2</medage>
+    <sindads>165</sindads>
+    <sinmoms>380</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21125</id>
+    <geoid>21125</geoid>
+    <label>Laurel County, Kentucky</label>
+    <totpop>58849</totpop>
+    <medage>38.4</medage>
+    <sindads>600</sindads>
+    <sinmoms>1618</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21127</id>
+    <geoid>21127</geoid>
+    <label>Lawrence County, Kentucky</label>
+    <totpop>15860</totpop>
+    <medage>40.1</medage>
+    <sindads>142</sindads>
+    <sinmoms>307</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21129</id>
+    <geoid>21129</geoid>
+    <label>Lee County, Kentucky</label>
+    <totpop>7887</totpop>
+    <medage>40.9</medage>
+    <sindads>78</sindads>
+    <sinmoms>192</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21131</id>
+    <geoid>21131</geoid>
+    <label>Leslie County, Kentucky</label>
+    <totpop>11310</totpop>
+    <medage>41.1</medage>
+    <sindads>108</sindads>
+    <sinmoms>211</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21133</id>
+    <geoid>21133</geoid>
+    <label>Letcher County, Kentucky</label>
+    <totpop>24519</totpop>
+    <medage>40.9</medage>
+    <sindads>257</sindads>
+    <sinmoms>573</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21135</id>
+    <geoid>21135</geoid>
+    <label>Lewis County, Kentucky</label>
+    <totpop>13870</totpop>
+    <medage>40.3</medage>
+    <sindads>150</sindads>
+    <sinmoms>311</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21137</id>
+    <geoid>21137</geoid>
+    <label>Lincoln County, Kentucky</label>
+    <totpop>24742</totpop>
+    <medage>39.5</medage>
+    <sindads>272</sindads>
+    <sinmoms>654</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21139</id>
+    <geoid>21139</geoid>
+    <label>Livingston County, Kentucky</label>
+    <totpop>9519</totpop>
+    <medage>44.9</medage>
+    <sindads>90</sindads>
+    <sinmoms>177</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21141</id>
+    <geoid>21141</geoid>
+    <label>Logan County, Kentucky</label>
+    <totpop>26835</totpop>
+    <medage>40.2</medage>
+    <sindads>256</sindads>
+    <sinmoms>667</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21143</id>
+    <geoid>21143</geoid>
+    <label>Lyon County, Kentucky</label>
+    <totpop>8314</totpop>
+    <medage>47.9</medage>
+    <sindads>51</sindads>
+    <sinmoms>121</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21145</id>
+    <geoid>21145</geoid>
+    <label>McCracken County, Kentucky</label>
+    <totpop>65565</totpop>
+    <medage>41.8</medage>
+    <sindads>597</sindads>
+    <sinmoms>2076</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21147</id>
+    <geoid>21147</geoid>
+    <label>McCreary County, Kentucky</label>
+    <totpop>18306</totpop>
+    <medage>37.9</medage>
+    <sindads>156</sindads>
+    <sinmoms>448</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21149</id>
+    <geoid>21149</geoid>
+    <label>McLean County, Kentucky</label>
+    <totpop>9531</totpop>
+    <medage>41.5</medage>
+    <sindads>96</sindads>
+    <sinmoms>218</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21151</id>
+    <geoid>21151</geoid>
+    <label>Madison County, Kentucky</label>
+    <totpop>82916</totpop>
+    <medage>33.7</medage>
+    <sindads>740</sindads>
+    <sinmoms>2149</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21153</id>
+    <geoid>21153</geoid>
+    <label>Magoffin County, Kentucky</label>
+    <totpop>13333</totpop>
+    <medage>39.1</medage>
+    <sindads>133</sindads>
+    <sinmoms>298</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21155</id>
+    <geoid>21155</geoid>
+    <label>Marion County, Kentucky</label>
+    <totpop>19820</totpop>
+    <medage>37.8</medage>
+    <sindads>199</sindads>
+    <sinmoms>594</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21157</id>
+    <geoid>21157</geoid>
+    <label>Marshall County, Kentucky</label>
+    <totpop>31448</totpop>
+    <medage>44.3</medage>
+    <sindads>258</sindads>
+    <sinmoms>660</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21159</id>
+    <geoid>21159</geoid>
+    <label>Martin County, Kentucky</label>
+    <totpop>12929</totpop>
+    <medage>37.3</medage>
+    <sindads>91</sindads>
+    <sinmoms>293</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21161</id>
+    <geoid>21161</geoid>
+    <label>Mason County, Kentucky</label>
+    <totpop>17490</totpop>
+    <medage>40.3</medage>
+    <sindads>179</sindads>
+    <sinmoms>572</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21163</id>
+    <geoid>21163</geoid>
+    <label>Meade County, Kentucky</label>
+    <totpop>28602</totpop>
+    <medage>35</medage>
+    <sindads>302</sindads>
+    <sinmoms>666</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21165</id>
+    <geoid>21165</geoid>
+    <label>Menifee County, Kentucky</label>
+    <totpop>6306</totpop>
+    <medage>40.6</medage>
+    <sindads>66</sindads>
+    <sinmoms>114</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21167</id>
+    <geoid>21167</geoid>
+    <label>Mercer County, Kentucky</label>
+    <totpop>21331</totpop>
+    <medage>41.7</medage>
+    <sindads>204</sindads>
+    <sinmoms>530</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21169</id>
+    <geoid>21169</geoid>
+    <label>Metcalfe County, Kentucky</label>
+    <totpop>10099</totpop>
+    <medage>40.7</medage>
+    <sindads>89</sindads>
+    <sinmoms>241</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21171</id>
+    <geoid>21171</geoid>
+    <label>Monroe County, Kentucky</label>
+    <totpop>10963</totpop>
+    <medage>42.1</medage>
+    <sindads>117</sindads>
+    <sinmoms>260</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21173</id>
+    <geoid>21173</geoid>
+    <label>Montgomery County, Kentucky</label>
+    <totpop>26499</totpop>
+    <medage>38</medage>
+    <sindads>308</sindads>
+    <sinmoms>724</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21175</id>
+    <geoid>21175</geoid>
+    <label>Morgan County, Kentucky</label>
+    <totpop>13923</totpop>
+    <medage>38.6</medage>
+    <sindads>116</sindads>
+    <sinmoms>258</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21177</id>
+    <geoid>21177</geoid>
+    <label>Muhlenberg County, Kentucky</label>
+    <totpop>31499</totpop>
+    <medage>40.9</medage>
+    <sindads>274</sindads>
+    <sinmoms>698</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21179</id>
+    <geoid>21179</geoid>
+    <label>Nelson County, Kentucky</label>
+    <totpop>43437</totpop>
+    <medage>37.7</medage>
+    <sindads>545</sindads>
+    <sinmoms>1398</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21181</id>
+    <geoid>21181</geoid>
+    <label>Nicholas County, Kentucky</label>
+    <totpop>7135</totpop>
+    <medage>40.5</medage>
+    <sindads>100</sindads>
+    <sinmoms>165</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21183</id>
+    <geoid>21183</geoid>
+    <label>Ohio County, Kentucky</label>
+    <totpop>23842</totpop>
+    <medage>39.1</medage>
+    <sindads>248</sindads>
+    <sinmoms>532</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21185</id>
+    <geoid>21185</geoid>
+    <label>Oldham County, Kentucky</label>
+    <totpop>60316</totpop>
+    <medage>39</medage>
+    <sindads>473</sindads>
+    <sinmoms>1109</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21187</id>
+    <geoid>21187</geoid>
+    <label>Owen County, Kentucky</label>
+    <totpop>10841</totpop>
+    <medage>40.1</medage>
+    <sindads>136</sindads>
+    <sinmoms>217</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21189</id>
+    <geoid>21189</geoid>
+    <label>Owsley County, Kentucky</label>
+    <totpop>4755</totpop>
+    <medage>42.2</medage>
+    <sindads>69</sindads>
+    <sinmoms>112</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21191</id>
+    <geoid>21191</geoid>
+    <label>Pendleton County, Kentucky</label>
+    <totpop>14877</totpop>
+    <medage>39.5</medage>
+    <sindads>196</sindads>
+    <sinmoms>326</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21193</id>
+    <geoid>21193</geoid>
+    <label>Perry County, Kentucky</label>
+    <totpop>28712</totpop>
+    <medage>40.2</medage>
+    <sindads>265</sindads>
+    <sinmoms>687</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21195</id>
+    <geoid>21195</geoid>
+    <label>Pike County, Kentucky</label>
+    <totpop>65024</totpop>
+    <medage>40.3</medage>
+    <sindads>525</sindads>
+    <sinmoms>1612</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21197</id>
+    <geoid>21197</geoid>
+    <label>Powell County, Kentucky</label>
+    <totpop>12613</totpop>
+    <medage>38.7</medage>
+    <sindads>146</sindads>
+    <sinmoms>339</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21199</id>
+    <geoid>21199</geoid>
+    <label>Pulaski County, Kentucky</label>
+    <totpop>63063</totpop>
+    <medage>41.1</medage>
+    <sindads>641</sindads>
+    <sinmoms>1670</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21201</id>
+    <geoid>21201</geoid>
+    <label>Robertson County, Kentucky</label>
+    <totpop>2282</totpop>
+    <medage>43.9</medage>
+    <sindads>26</sindads>
+    <sinmoms>40</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21203</id>
+    <geoid>21203</geoid>
+    <label>Rockcastle County, Kentucky</label>
+    <totpop>17056</totpop>
+    <medage>40.6</medage>
+    <sindads>174</sindads>
+    <sinmoms>385</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21205</id>
+    <geoid>21205</geoid>
+    <label>Rowan County, Kentucky</label>
+    <totpop>23333</totpop>
+    <medage>31.7</medage>
+    <sindads>221</sindads>
+    <sinmoms>568</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21207</id>
+    <geoid>21207</geoid>
+    <label>Russell County, Kentucky</label>
+    <totpop>17565</totpop>
+    <medage>42.2</medage>
+    <sindads>204</sindads>
+    <sinmoms>496</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21209</id>
+    <geoid>21209</geoid>
+    <label>Scott County, Kentucky</label>
+    <totpop>47173</totpop>
+    <medage>35</medage>
+    <sindads>511</sindads>
+    <sinmoms>1290</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21211</id>
+    <geoid>21211</geoid>
+    <label>Shelby County, Kentucky</label>
+    <totpop>42074</totpop>
+    <medage>38.3</medage>
+    <sindads>429</sindads>
+    <sinmoms>1059</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21213</id>
+    <geoid>21213</geoid>
+    <label>Simpson County, Kentucky</label>
+    <totpop>17327</totpop>
+    <medage>39.3</medage>
+    <sindads>185</sindads>
+    <sinmoms>488</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21215</id>
+    <geoid>21215</geoid>
+    <label>Spencer County, Kentucky</label>
+    <totpop>17061</totpop>
+    <medage>38.9</medage>
+    <sindads>164</sindads>
+    <sinmoms>263</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21217</id>
+    <geoid>21217</geoid>
+    <label>Taylor County, Kentucky</label>
+    <totpop>24512</totpop>
+    <medage>39.4</medage>
+    <sindads>206</sindads>
+    <sinmoms>662</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21219</id>
+    <geoid>21219</geoid>
+    <label>Todd County, Kentucky</label>
+    <totpop>12460</totpop>
+    <medage>37.1</medage>
+    <sindads>127</sindads>
+    <sinmoms>324</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21221</id>
+    <geoid>21221</geoid>
+    <label>Trigg County, Kentucky</label>
+    <totpop>14339</totpop>
+    <medage>44.2</medage>
+    <sindads>129</sindads>
+    <sinmoms>356</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21223</id>
+    <geoid>21223</geoid>
+    <label>Trimble County, Kentucky</label>
+    <totpop>8809</totpop>
+    <medage>39.5</medage>
+    <sindads>117</sindads>
+    <sinmoms>183</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21225</id>
+    <geoid>21225</geoid>
+    <label>Union County, Kentucky</label>
+    <totpop>15007</totpop>
+    <medage>36.3</medage>
+    <sindads>138</sindads>
+    <sinmoms>358</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21227</id>
+    <geoid>21227</geoid>
+    <label>Warren County, Kentucky</label>
+    <totpop>113792</totpop>
+    <medage>32.7</medage>
+    <sindads>932</sindads>
+    <sinmoms>3126</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21229</id>
+    <geoid>21229</geoid>
+    <label>Washington County, Kentucky</label>
+    <totpop>11717</totpop>
+    <medage>40.7</medage>
+    <sindads>98</sindads>
+    <sinmoms>257</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21231</id>
+    <geoid>21231</geoid>
+    <label>Wayne County, Kentucky</label>
+    <totpop>20813</totpop>
+    <medage>41.1</medage>
+    <sindads>201</sindads>
+    <sinmoms>506</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21233</id>
+    <geoid>21233</geoid>
+    <label>Webster County, Kentucky</label>
+    <totpop>13621</totpop>
+    <medage>40.1</medage>
+    <sindads>125</sindads>
+    <sinmoms>291</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21235</id>
+    <geoid>21235</geoid>
+    <label>Whitley County, Kentucky</label>
+    <totpop>35637</totpop>
+    <medage>38.1</medage>
+    <sindads>331</sindads>
+    <sinmoms>1037</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21237</id>
+    <geoid>21237</geoid>
+    <label>Wolfe County, Kentucky</label>
+    <totpop>7355</totpop>
+    <medage>40.9</medage>
+    <sindads>82</sindads>
+    <sinmoms>218</sinmoms>
+  </row>
+  <row>
+    <id>0500000US21239</id>
+    <geoid>21239</geoid>
+    <label>Woodford County, Kentucky</label>
+    <totpop>24939</totpop>
+    <medage>41</medage>
+    <sindads>191</sindads>
+    <sinmoms>628</sinmoms>
+  </row>
+</root>
