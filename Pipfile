@@ -12,6 +12,7 @@ numpy = "*"
 requests = "*"
 datadotworld = "*"
 "beautifulsoup4" = "*"
+lxml = "*"
 
 [dev-packages]
 
