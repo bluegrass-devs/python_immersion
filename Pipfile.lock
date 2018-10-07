@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "e4ae07cf24cd0498a32709d7b0623bfaa85c3fc8eb4b678521316245e302b2b4"
+            "sha256": "aefa7b11ef31d1e09b588d047272acc21dd6a48efb657a3fad2854568d73dd4a"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -125,13 +125,6 @@
                 "sha256:702a91ade2968a82beb0db1e0766a6a273f33d4616a6ce8cde475d8e09853b20"
             ],
             "version": "==0.5.0"
-        },
-        "docx": {
-            "hashes": [
-                "sha256:9d7595eac6e86cda0b7136a2995318d039c1f3eaa368a3300805abbbe5dc8877"
-            ],
-            "index": "pypi",
-            "version": "==0.2.4"
         },
         "entrypoints": {
             "hashes": [
@@ -592,7 +585,6 @@
                 "sha256:923f299cc5ad920c68f2bc0bc98b75b9f838b93b599941a6b63ddbc2476394c0",
                 "sha256:d7cc528d76e76342423ca640335bd3633420dc1366f258cb31d05e865ef5ca1f"
             ],
-            "markers": "os_name != 'nt'",
             "version": "==0.6.0"
         },
         "pycodestyle": {
@@ -682,6 +674,13 @@
                 "sha256:e27001de32f627c22380a688bcc43ce83504a7bc5da472209b4c70f02829f0b8"
             ],
             "version": "==2.7.3"
+        },
+        "python-docx": {
+            "hashes": [
+                "sha256:ba9f2a7ca391b78ab385d796b38af3f21bab23c727fc8e0c5e630448d1a11fe3"
+            ],
+            "index": "pypi",
+            "version": "==0.8.7"
         },
         "pytz": {
             "hashes": [
