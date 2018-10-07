@@ -6,6 +6,16 @@ name = "pypi"
 [packages]
 jupyterlab = "*"
 pandas = "*"
+wordcloud = "*"
+matplotlib = "*"
+numpy = "*"
+requests = "*"
+datadotworld = "*"
+"beautifulsoup4" = "*"
+lxml = "*"
+pdfx = "*"
+pymongo = "*"
+python-docx = "*"
 
 [dev-packages]
 

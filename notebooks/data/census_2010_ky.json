@@ -1,0 +1,1082 @@
+[
+ {
+   "id": "0500000US21001",
+   "geoid": 21001,
+   "label": "Adair County, Kentucky",
+   "totpop": 18656,
+   "medage": 39,
+   "sindads": 176,
+   "sinmoms": 422
+ },
+ {
+   "id": "0500000US21003",
+   "geoid": 21003,
+   "label": "Allen County, Kentucky",
+   "totpop": 19956,
+   "medage": 39.2,
+   "sindads": 176,
+   "sinmoms": 486
+ },
+ {
+   "id": "0500000US21005",
+   "geoid": 21005,
+   "label": "Anderson County, Kentucky",
+   "totpop": 21421,
+   "medage": 38.4,
+   "sindads": 240,
+   "sinmoms": 566
+ },
+ {
+   "id": "0500000US21007",
+   "geoid": 21007,
+   "label": "Ballard County, Kentucky",
+   "totpop": 8249,
+   "medage": 42.4,
+   "sindads": 82,
+   "sinmoms": 168
+ },
+ {
+   "id": "0500000US21009",
+   "geoid": 21009,
+   "label": "Barren County, Kentucky",
+   "totpop": 42173,
+   "medage": 39.7,
+   "sindads": 414,
+   "sinmoms": 1205
+ },
+ {
+   "id": "0500000US21011",
+   "geoid": 21011,
+   "label": "Bath County, Kentucky",
+   "totpop": 11591,
+   "medage": 39.9,
+   "sindads": 117,
+   "sinmoms": 317
+ },
+ {
+   "id": "0500000US21013",
+   "geoid": 21013,
+   "label": "Bell County, Kentucky",
+   "totpop": 28691,
+   "medage": 41,
+   "sindads": 285,
+   "sinmoms": 854
+ },
+ {
+   "id": "0500000US21015",
+   "geoid": 21015,
+   "label": "Boone County, Kentucky",
+   "totpop": 118811,
+   "medage": 35.7,
+   "sindads": 1199,
+   "sinmoms": 2822
+ },
+ {
+   "id": "0500000US21017",
+   "geoid": 21017,
+   "label": "Bourbon County, Kentucky",
+   "totpop": 19985,
+   "medage": 40.7,
+   "sindads": 195,
+   "sinmoms": 628
+ },
+ {
+   "id": "0500000US21019",
+   "geoid": 21019,
+   "label": "Boyd County, Kentucky",
+   "totpop": 49542,
+   "medage": 41.8,
+   "sindads": 449,
+   "sinmoms": 1247
+ },
+ {
+   "id": "0500000US21021",
+   "geoid": 21021,
+   "label": "Boyle County, Kentucky",
+   "totpop": 28432,
+   "medage": 40.6,
+   "sindads": 262,
+   "sinmoms": 803
+ },
+ {
+   "id": "0500000US21023",
+   "geoid": 21023,
+   "label": "Bracken County, Kentucky",
+   "totpop": 8488,
+   "medage": 39.2,
+   "sindads": 106,
+   "sinmoms": 202
+ },
+ {
+   "id": "0500000US21025",
+   "geoid": 21025,
+   "label": "Breathitt County, Kentucky",
+   "totpop": 13878,
+   "medage": 40,
+   "sindads": 135,
+   "sinmoms": 309
+ },
+ {
+   "id": "0500000US21027",
+   "geoid": 21027,
+   "label": "Breckinridge County, Kentucky",
+   "totpop": 20059,
+   "medage": 41.6,
+   "sindads": 196,
+   "sinmoms": 408
+ },
+ {
+   "id": "0500000US21029",
+   "geoid": 21029,
+   "label": "Bullitt County, Kentucky",
+   "totpop": 74319,
+   "medage": 38.2,
+   "sindads": 892,
+   "sinmoms": 1872
+ },
+ {
+   "id": "0500000US21031",
+   "geoid": 21031,
+   "label": "Butler County, Kentucky",
+   "totpop": 12690,
+   "medage": 40.1,
+   "sindads": 125,
+   "sinmoms": 320
+ },
+ {
+   "id": "0500000US21033",
+   "geoid": 21033,
+   "label": "Caldwell County, Kentucky",
+   "totpop": 12984,
+   "medage": 42.6,
+   "sindads": 133,
+   "sinmoms": 338
+ },
+ {
+   "id": "0500000US21035",
+   "geoid": 21035,
+   "label": "Calloway County, Kentucky",
+   "totpop": 37191,
+   "medage": 34,
+   "sindads": 246,
+   "sinmoms": 767
+ },
+ {
+   "id": "0500000US21037",
+   "geoid": 21037,
+   "label": "Campbell County, Kentucky",
+   "totpop": 90336,
+   "medage": 37,
+   "sindads": 957,
+   "sinmoms": 2323
+ },
+ {
+   "id": "0500000US21039",
+   "geoid": 21039,
+   "label": "Carlisle County, Kentucky",
+   "totpop": 5104,
+   "medage": 42.9,
+   "sindads": 41,
+   "sinmoms": 126
+ },
+ {
+   "id": "0500000US21041",
+   "geoid": 21041,
+   "label": "Carroll County, Kentucky",
+   "totpop": 10811,
+   "medage": 37.6,
+   "sindads": 166,
+   "sinmoms": 320
+ },
+ {
+   "id": "0500000US21043",
+   "geoid": 21043,
+   "label": "Carter County, Kentucky",
+   "totpop": 27720,
+   "medage": 39.3,
+   "sindads": 272,
+   "sinmoms": 638
+ },
+ {
+   "id": "0500000US21045",
+   "geoid": 21045,
+   "label": "Casey County, Kentucky",
+   "totpop": 15955,
+   "medage": 40.6,
+   "sindads": 167,
+   "sinmoms": 358
+ },
+ {
+   "id": "0500000US21047",
+   "geoid": 21047,
+   "label": "Christian County, Kentucky",
+   "totpop": 73955,
+   "medage": 28.9,
+   "sindads": 578,
+   "sinmoms": 2881
+ },
+ {
+   "id": "0500000US21049",
+   "geoid": 21049,
+   "label": "Clark County, Kentucky",
+   "totpop": 35613,
+   "medage": 39.8,
+   "sindads": 343,
+   "sinmoms": 1056
+ },
+ {
+   "id": "0500000US21051",
+   "geoid": 21051,
+   "label": "Clay County, Kentucky",
+   "totpop": 21730,
+   "medage": 37.7,
+   "sindads": 205,
+   "sinmoms": 557
+ },
+ {
+   "id": "0500000US21053",
+   "geoid": 21053,
+   "label": "Clinton County, Kentucky",
+   "totpop": 10272,
+   "medage": 41.6,
+   "sindads": 114,
+   "sinmoms": 284
+ },
+ {
+   "id": "0500000US21055",
+   "geoid": 21055,
+   "label": "Crittenden County, Kentucky",
+   "totpop": 9315,
+   "medage": 42.6,
+   "sindads": 89,
+   "sinmoms": 180
+ },
+ {
+   "id": "0500000US21057",
+   "geoid": 21057,
+   "label": "Cumberland County, Kentucky",
+   "totpop": 6856,
+   "medage": 43.8,
+   "sindads": 82,
+   "sinmoms": 159
+ },
+ {
+   "id": "0500000US21059",
+   "geoid": 21059,
+   "label": "Daviess County, Kentucky",
+   "totpop": 96656,
+   "medage": 38.8,
+   "sindads": 902,
+   "sinmoms": 2926
+ },
+ {
+   "id": "0500000US21061",
+   "geoid": 21061,
+   "label": "Edmonson County, Kentucky",
+   "totpop": 12161,
+   "medage": 41.3,
+   "sindads": 92,
+   "sinmoms": 253
+ },
+ {
+   "id": "0500000US21063",
+   "geoid": 21063,
+   "label": "Elliott County, Kentucky",
+   "totpop": 7852,
+   "medage": 39.9,
+   "sindads": 58,
+   "sinmoms": 165
+ },
+ {
+   "id": "0500000US21065",
+   "geoid": 21065,
+   "label": "Estill County, Kentucky",
+   "totpop": 14672,
+   "medage": 41.3,
+   "sindads": 169,
+   "sinmoms": 403
+ },
+ {
+   "id": "0500000US21067",
+   "geoid": 21067,
+   "label": "Fayette County, Kentucky",
+   "totpop": 295803,
+   "medage": 33.7,
+   "sindads": 2404,
+   "sinmoms": 8732
+ },
+ {
+   "id": "0500000US21069",
+   "geoid": 21069,
+   "label": "Fleming County, Kentucky",
+   "totpop": 14348,
+   "medage": 40.1,
+   "sindads": 139,
+   "sinmoms": 319
+ },
+ {
+   "id": "0500000US21071",
+   "geoid": 21071,
+   "label": "Floyd County, Kentucky",
+   "totpop": 39451,
+   "medage": 39.9,
+   "sindads": 375,
+   "sinmoms": 1109
+ },
+ {
+   "id": "0500000US21073",
+   "geoid": 21073,
+   "label": "Franklin County, Kentucky",
+   "totpop": 49285,
+   "medage": 39.8,
+   "sindads": 529,
+   "sinmoms": 1634
+ },
+ {
+   "id": "0500000US21075",
+   "geoid": 21075,
+   "label": "Fulton County, Kentucky",
+   "totpop": 6813,
+   "medage": 42.8,
+   "sindads": 51,
+   "sinmoms": 241
+ },
+ {
+   "id": "0500000US21077",
+   "geoid": 21077,
+   "label": "Gallatin County, Kentucky",
+   "totpop": 8589,
+   "medage": 37.4,
+   "sindads": 120,
+   "sinmoms": 233
+ },
+ {
+   "id": "0500000US21079",
+   "geoid": 21079,
+   "label": "Garrard County, Kentucky",
+   "totpop": 16912,
+   "medage": 41.2,
+   "sindads": 167,
+   "sinmoms": 341
+ },
+ {
+   "id": "0500000US21081",
+   "geoid": 21081,
+   "label": "Grant County, Kentucky",
+   "totpop": 24662,
+   "medage": 35.3,
+   "sindads": 299,
+   "sinmoms": 696
+ },
+ {
+   "id": "0500000US21083",
+   "geoid": 21083,
+   "label": "Graves County, Kentucky",
+   "totpop": 37121,
+   "medage": 39.8,
+   "sindads": 367,
+   "sinmoms": 948
+ },
+ {
+   "id": "0500000US21085",
+   "geoid": 21085,
+   "label": "Grayson County, Kentucky",
+   "totpop": 25746,
+   "medage": 39.7,
+   "sindads": 255,
+   "sinmoms": 596
+ },
+ {
+   "id": "0500000US21087",
+   "geoid": 21087,
+   "label": "Green County, Kentucky",
+   "totpop": 11258,
+   "medage": 42.6,
+   "sindads": 99,
+   "sinmoms": 227
+ },
+ {
+   "id": "0500000US21089",
+   "geoid": 21089,
+   "label": "Greenup County, Kentucky",
+   "totpop": 36910,
+   "medage": 42,
+   "sindads": 308,
+   "sinmoms": 764
+ },
+ {
+   "id": "0500000US21091",
+   "geoid": 21091,
+   "label": "Hancock County, Kentucky",
+   "totpop": 8565,
+   "medage": 39.5,
+   "sindads": 99,
+   "sinmoms": 193
+ },
+ {
+   "id": "0500000US21093",
+   "geoid": 21093,
+   "label": "Hardin County, Kentucky",
+   "totpop": 105543,
+   "medage": 35,
+   "sindads": 1053,
+   "sinmoms": 3129
+ },
+ {
+   "id": "0500000US21095",
+   "geoid": 21095,
+   "label": "Harlan County, Kentucky",
+   "totpop": 29278,
+   "medage": 40.5,
+   "sindads": 275,
+   "sinmoms": 727
+ },
+ {
+   "id": "0500000US21097",
+   "geoid": 21097,
+   "label": "Harrison County, Kentucky",
+   "totpop": 18846,
+   "medage": 40.7,
+   "sindads": 208,
+   "sinmoms": 474
+ },
+ {
+   "id": "0500000US21099",
+   "geoid": 21099,
+   "label": "Hart County, Kentucky",
+   "totpop": 18199,
+   "medage": 40.1,
+   "sindads": 181,
+   "sinmoms": 399
+ },
+ {
+   "id": "0500000US21101",
+   "geoid": 21101,
+   "label": "Henderson County, Kentucky",
+   "totpop": 46250,
+   "medage": 39.8,
+   "sindads": 449,
+   "sinmoms": 1429
+ },
+ {
+   "id": "0500000US21103",
+   "geoid": 21103,
+   "label": "Henry County, Kentucky",
+   "totpop": 15416,
+   "medage": 40.6,
+   "sindads": 192,
+   "sinmoms": 374
+ },
+ {
+   "id": "0500000US21105",
+   "geoid": 21105,
+   "label": "Hickman County, Kentucky",
+   "totpop": 4902,
+   "medage": 44.8,
+   "sindads": 38,
+   "sinmoms": 119
+ },
+ {
+   "id": "0500000US21107",
+   "geoid": 21107,
+   "label": "Hopkins County, Kentucky",
+   "totpop": 46920,
+   "medage": 40.4,
+   "sindads": 444,
+   "sinmoms": 1360
+ },
+ {
+   "id": "0500000US21109",
+   "geoid": 21109,
+   "label": "Jackson County, Kentucky",
+   "totpop": 13494,
+   "medage": 39.5,
+   "sindads": 129,
+   "sinmoms": 313
+ },
+ {
+   "id": "0500000US21111",
+   "geoid": 21111,
+   "label": "Jefferson County, Kentucky",
+   "totpop": 741096,
+   "medage": 37.9,
+   "sindads": 7246,
+   "sinmoms": 26664
+ },
+ {
+   "id": "0500000US21113",
+   "geoid": 21113,
+   "label": "Jessamine County, Kentucky",
+   "totpop": 48586,
+   "medage": 35.8,
+   "sindads": 491,
+   "sinmoms": 1352
+ },
+ {
+   "id": "0500000US21115",
+   "geoid": 21115,
+   "label": "Johnson County, Kentucky",
+   "totpop": 23356,
+   "medage": 40.4,
+   "sindads": 185,
+   "sinmoms": 532
+ },
+ {
+   "id": "0500000US21117",
+   "geoid": 21117,
+   "label": "Kenton County, Kentucky",
+   "totpop": 159720,
+   "medage": 36,
+   "sindads": 1659,
+   "sinmoms": 4645
+ },
+ {
+   "id": "0500000US21119",
+   "geoid": 21119,
+   "label": "Knott County, Kentucky",
+   "totpop": 16346,
+   "medage": 40.5,
+   "sindads": 164,
+   "sinmoms": 367
+ },
+ {
+   "id": "0500000US21121",
+   "geoid": 21121,
+   "label": "Knox County, Kentucky",
+   "totpop": 31883,
+   "medage": 38.5,
+   "sindads": 358,
+   "sinmoms": 899
+ },
+ {
+   "id": "0500000US21123",
+   "geoid": 21123,
+   "label": "Larue County, Kentucky",
+   "totpop": 14193,
+   "medage": 40.2,
+   "sindads": 165,
+   "sinmoms": 380
+ },
+ {
+   "id": "0500000US21125",
+   "geoid": 21125,
+   "label": "Laurel County, Kentucky",
+   "totpop": 58849,
+   "medage": 38.4,
+   "sindads": 600,
+   "sinmoms": 1618
+ },
+ {
+   "id": "0500000US21127",
+   "geoid": 21127,
+   "label": "Lawrence County, Kentucky",
+   "totpop": 15860,
+   "medage": 40.1,
+   "sindads": 142,
+   "sinmoms": 307
+ },
+ {
+   "id": "0500000US21129",
+   "geoid": 21129,
+   "label": "Lee County, Kentucky",
+   "totpop": 7887,
+   "medage": 40.9,
+   "sindads": 78,
+   "sinmoms": 192
+ },
+ {
+   "id": "0500000US21131",
+   "geoid": 21131,
+   "label": "Leslie County, Kentucky",
+   "totpop": 11310,
+   "medage": 41.1,
+   "sindads": 108,
+   "sinmoms": 211
+ },
+ {
+   "id": "0500000US21133",
+   "geoid": 21133,
+   "label": "Letcher County, Kentucky",
+   "totpop": 24519,
+   "medage": 40.9,
+   "sindads": 257,
+   "sinmoms": 573
+ },
+ {
+   "id": "0500000US21135",
+   "geoid": 21135,
+   "label": "Lewis County, Kentucky",
+   "totpop": 13870,
+   "medage": 40.3,
+   "sindads": 150,
+   "sinmoms": 311
+ },
+ {
+   "id": "0500000US21137",
+   "geoid": 21137,
+   "label": "Lincoln County, Kentucky",
+   "totpop": 24742,
+   "medage": 39.5,
+   "sindads": 272,
+   "sinmoms": 654
+ },
+ {
+   "id": "0500000US21139",
+   "geoid": 21139,
+   "label": "Livingston County, Kentucky",
+   "totpop": 9519,
+   "medage": 44.9,
+   "sindads": 90,
+   "sinmoms": 177
+ },
+ {
+   "id": "0500000US21141",
+   "geoid": 21141,
+   "label": "Logan County, Kentucky",
+   "totpop": 26835,
+   "medage": 40.2,
+   "sindads": 256,
+   "sinmoms": 667
+ },
+ {
+   "id": "0500000US21143",
+   "geoid": 21143,
+   "label": "Lyon County, Kentucky",
+   "totpop": 8314,
+   "medage": 47.9,
+   "sindads": 51,
+   "sinmoms": 121
+ },
+ {
+   "id": "0500000US21145",
+   "geoid": 21145,
+   "label": "McCracken County, Kentucky",
+   "totpop": 65565,
+   "medage": 41.8,
+   "sindads": 597,
+   "sinmoms": 2076
+ },
+ {
+   "id": "0500000US21147",
+   "geoid": 21147,
+   "label": "McCreary County, Kentucky",
+   "totpop": 18306,
+   "medage": 37.9,
+   "sindads": 156,
+   "sinmoms": 448
+ },
+ {
+   "id": "0500000US21149",
+   "geoid": 21149,
+   "label": "McLean County, Kentucky",
+   "totpop": 9531,
+   "medage": 41.5,
+   "sindads": 96,
+   "sinmoms": 218
+ },
+ {
+   "id": "0500000US21151",
+   "geoid": 21151,
+   "label": "Madison County, Kentucky",
+   "totpop": 82916,
+   "medage": 33.7,
+   "sindads": 740,
+   "sinmoms": 2149
+ },
+ {
+   "id": "0500000US21153",
+   "geoid": 21153,
+   "label": "Magoffin County, Kentucky",
+   "totpop": 13333,
+   "medage": 39.1,
+   "sindads": 133,
+   "sinmoms": 298
+ },
+ {
+   "id": "0500000US21155",
+   "geoid": 21155,
+   "label": "Marion County, Kentucky",
+   "totpop": 19820,
+   "medage": 37.8,
+   "sindads": 199,
+   "sinmoms": 594
+ },
+ {
+   "id": "0500000US21157",
+   "geoid": 21157,
+   "label": "Marshall County, Kentucky",
+   "totpop": 31448,
+   "medage": 44.3,
+   "sindads": 258,
+   "sinmoms": 660
+ },
+ {
+   "id": "0500000US21159",
+   "geoid": 21159,
+   "label": "Martin County, Kentucky",
+   "totpop": 12929,
+   "medage": 37.3,
+   "sindads": 91,
+   "sinmoms": 293
+ },
+ {
+   "id": "0500000US21161",
+   "geoid": 21161,
+   "label": "Mason County, Kentucky",
+   "totpop": 17490,
+   "medage": 40.3,
+   "sindads": 179,
+   "sinmoms": 572
+ },
+ {
+   "id": "0500000US21163",
+   "geoid": 21163,
+   "label": "Meade County, Kentucky",
+   "totpop": 28602,
+   "medage": 35,
+   "sindads": 302,
+   "sinmoms": 666
+ },
+ {
+   "id": "0500000US21165",
+   "geoid": 21165,
+   "label": "Menifee County, Kentucky",
+   "totpop": 6306,
+   "medage": 40.6,
+   "sindads": 66,
+   "sinmoms": 114
+ },
+ {
+   "id": "0500000US21167",
+   "geoid": 21167,
+   "label": "Mercer County, Kentucky",
+   "totpop": 21331,
+   "medage": 41.7,
+   "sindads": 204,
+   "sinmoms": 530
+ },
+ {
+   "id": "0500000US21169",
+   "geoid": 21169,
+   "label": "Metcalfe County, Kentucky",
+   "totpop": 10099,
+   "medage": 40.7,
+   "sindads": 89,
+   "sinmoms": 241
+ },
+ {
+   "id": "0500000US21171",
+   "geoid": 21171,
+   "label": "Monroe County, Kentucky",
+   "totpop": 10963,
+   "medage": 42.1,
+   "sindads": 117,
+   "sinmoms": 260
+ },
+ {
+   "id": "0500000US21173",
+   "geoid": 21173,
+   "label": "Montgomery County, Kentucky",
+   "totpop": 26499,
+   "medage": 38,
+   "sindads": 308,
+   "sinmoms": 724
+ },
+ {
+   "id": "0500000US21175",
+   "geoid": 21175,
+   "label": "Morgan County, Kentucky",
+   "totpop": 13923,
+   "medage": 38.6,
+   "sindads": 116,
+   "sinmoms": 258
+ },
+ {
+   "id": "0500000US21177",
+   "geoid": 21177,
+   "label": "Muhlenberg County, Kentucky",
+   "totpop": 31499,
+   "medage": 40.9,
+   "sindads": 274,
+   "sinmoms": 698
+ },
+ {
+   "id": "0500000US21179",
+   "geoid": 21179,
+   "label": "Nelson County, Kentucky",
+   "totpop": 43437,
+   "medage": 37.7,
+   "sindads": 545,
+   "sinmoms": 1398
+ },
+ {
+   "id": "0500000US21181",
+   "geoid": 21181,
+   "label": "Nicholas County, Kentucky",
+   "totpop": 7135,
+   "medage": 40.5,
+   "sindads": 100,
+   "sinmoms": 165
+ },
+ {
+   "id": "0500000US21183",
+   "geoid": 21183,
+   "label": "Ohio County, Kentucky",
+   "totpop": 23842,
+   "medage": 39.1,
+   "sindads": 248,
+   "sinmoms": 532
+ },
+ {
+   "id": "0500000US21185",
+   "geoid": 21185,
+   "label": "Oldham County, Kentucky",
+   "totpop": 60316,
+   "medage": 39,
+   "sindads": 473,
+   "sinmoms": 1109
+ },
+ {
+   "id": "0500000US21187",
+   "geoid": 21187,
+   "label": "Owen County, Kentucky",
+   "totpop": 10841,
+   "medage": 40.1,
+   "sindads": 136,
+   "sinmoms": 217
+ },
+ {
+   "id": "0500000US21189",
+   "geoid": 21189,
+   "label": "Owsley County, Kentucky",
+   "totpop": 4755,
+   "medage": 42.2,
+   "sindads": 69,
+   "sinmoms": 112
+ },
+ {
+   "id": "0500000US21191",
+   "geoid": 21191,
+   "label": "Pendleton County, Kentucky",
+   "totpop": 14877,
+   "medage": 39.5,
+   "sindads": 196,
+   "sinmoms": 326
+ },
+ {
+   "id": "0500000US21193",
+   "geoid": 21193,
+   "label": "Perry County, Kentucky",
+   "totpop": 28712,
+   "medage": 40.2,
+   "sindads": 265,
+   "sinmoms": 687
+ },
+ {
+   "id": "0500000US21195",
+   "geoid": 21195,
+   "label": "Pike County, Kentucky",
+   "totpop": 65024,
+   "medage": 40.3,
+   "sindads": 525,
+   "sinmoms": 1612
+ },
+ {
+   "id": "0500000US21197",
+   "geoid": 21197,
+   "label": "Powell County, Kentucky",
+   "totpop": 12613,
+   "medage": 38.7,
+   "sindads": 146,
+   "sinmoms": 339
+ },
+ {
+   "id": "0500000US21199",
+   "geoid": 21199,
+   "label": "Pulaski County, Kentucky",
+   "totpop": 63063,
+   "medage": 41.1,
+   "sindads": 641,
+   "sinmoms": 1670
+ },
+ {
+   "id": "0500000US21201",
+   "geoid": 21201,
+   "label": "Robertson County, Kentucky",
+   "totpop": 2282,
+   "medage": 43.9,
+   "sindads": 26,
+   "sinmoms": 40
+ },
+ {
+   "id": "0500000US21203",
+   "geoid": 21203,
+   "label": "Rockcastle County, Kentucky",
+   "totpop": 17056,
+   "medage": 40.6,
+   "sindads": 174,
+   "sinmoms": 385
+ },
+ {
+   "id": "0500000US21205",
+   "geoid": 21205,
+   "label": "Rowan County, Kentucky",
+   "totpop": 23333,
+   "medage": 31.7,
+   "sindads": 221,
+   "sinmoms": 568
+ },
+ {
+   "id": "0500000US21207",
+   "geoid": 21207,
+   "label": "Russell County, Kentucky",
+   "totpop": 17565,
+   "medage": 42.2,
+   "sindads": 204,
+   "sinmoms": 496
+ },
+ {
+   "id": "0500000US21209",
+   "geoid": 21209,
+   "label": "Scott County, Kentucky",
+   "totpop": 47173,
+   "medage": 35,
+   "sindads": 511,
+   "sinmoms": 1290
+ },
+ {
+   "id": "0500000US21211",
+   "geoid": 21211,
+   "label": "Shelby County, Kentucky",
+   "totpop": 42074,
+   "medage": 38.3,
+   "sindads": 429,
+   "sinmoms": 1059
+ },
+ {
+   "id": "0500000US21213",
+   "geoid": 21213,
+   "label": "Simpson County, Kentucky",
+   "totpop": 17327,
+   "medage": 39.3,
+   "sindads": 185,
+   "sinmoms": 488
+ },
+ {
+   "id": "0500000US21215",
+   "geoid": 21215,
+   "label": "Spencer County, Kentucky",
+   "totpop": 17061,
+   "medage": 38.9,
+   "sindads": 164,
+   "sinmoms": 263
+ },
+ {
+   "id": "0500000US21217",
+   "geoid": 21217,
+   "label": "Taylor County, Kentucky",
+   "totpop": 24512,
+   "medage": 39.4,
+   "sindads": 206,
+   "sinmoms": 662
+ },
+ {
+   "id": "0500000US21219",
+   "geoid": 21219,
+   "label": "Todd County, Kentucky",
+   "totpop": 12460,
+   "medage": 37.1,
+   "sindads": 127,
+   "sinmoms": 324
+ },
+ {
+   "id": "0500000US21221",
+   "geoid": 21221,
+   "label": "Trigg County, Kentucky",
+   "totpop": 14339,
+   "medage": 44.2,
+   "sindads": 129,
+   "sinmoms": 356
+ },
+ {
+   "id": "0500000US21223",
+   "geoid": 21223,
+   "label": "Trimble County, Kentucky",
+   "totpop": 8809,
+   "medage": 39.5,
+   "sindads": 117,
+   "sinmoms": 183
+ },
+ {
+   "id": "0500000US21225",
+   "geoid": 21225,
+   "label": "Union County, Kentucky",
+   "totpop": 15007,
+   "medage": 36.3,
+   "sindads": 138,
+   "sinmoms": 358
+ },
+ {
+   "id": "0500000US21227",
+   "geoid": 21227,
+   "label": "Warren County, Kentucky",
+   "totpop": 113792,
+   "medage": 32.7,
+   "sindads": 932,
+   "sinmoms": 3126
+ },
+ {
+   "id": "0500000US21229",
+   "geoid": 21229,
+   "label": "Washington County, Kentucky",
+   "totpop": 11717,
+   "medage": 40.7,
+   "sindads": 98,
+   "sinmoms": 257
+ },
+ {
+   "id": "0500000US21231",
+   "geoid": 21231,
+   "label": "Wayne County, Kentucky",
+   "totpop": 20813,
+   "medage": 41.1,
+   "sindads": 201,
+   "sinmoms": 506
+ },
+ {
+   "id": "0500000US21233",
+   "geoid": 21233,
+   "label": "Webster County, Kentucky",
+   "totpop": 13621,
+   "medage": 40.1,
+   "sindads": 125,
+   "sinmoms": 291
+ },
+ {
+   "id": "0500000US21235",
+   "geoid": 21235,
+   "label": "Whitley County, Kentucky",
+   "totpop": 35637,
+   "medage": 38.1,
+   "sindads": 331,
+   "sinmoms": 1037
+ },
+ {
+   "id": "0500000US21237",
+   "geoid": 21237,
+   "label": "Wolfe County, Kentucky",
+   "totpop": 7355,
+   "medage": 40.9,
+   "sindads": 82,
+   "sinmoms": 218
+ },
+ {
+   "id": "0500000US21239",
+   "geoid": 21239,
+   "label": "Woodford County, Kentucky",
+   "totpop": 24939,
+   "medage": 41,
+   "sindads": 191,
+   "sinmoms": 628
+ }
+]
