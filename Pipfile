@@ -15,6 +15,7 @@ datadotworld = "*"
 lxml = "*"
 pdfx = "*"
 pymongo = "*"
+docx = "*"
 
 [dev-packages]
 
