@@ -125,7 +125,7 @@ Please go here to join the Bluegrass Developers Guild Slack if you are not alrea
 
 * Data Collection
   * Python for Data Analysis by Wes McKinney
-    * Chapter 6 & 7
+    * Chapter 6
   * Automate the Boring Stuff
     * Chapter 11-14
 
@@ -137,7 +137,7 @@ Please go here to join the Bluegrass Developers Guild Slack if you are not alrea
     * Run through all the ipynb_slides
     * Run through the ISP and ipynb code samples
   * Python for Data Analysis by Wes McKinney
-    * Chapters 4,5,9,10
+    * Chapters 4,5,7,10
     * Eventually, read the whole thing (believe me, it’s worth it)
     * Work through as much of the code as possible
 
@@ -145,4 +145,4 @@ Please go here to join the Bluegrass Developers Guild Slack if you are not alrea
 
 * Data Visualization
   * Python for Data Analysis by Wes McKinney
-    * Chapter 8
+    * Chapter 8,9
