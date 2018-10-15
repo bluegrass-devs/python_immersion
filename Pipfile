@@ -17,6 +17,7 @@ pdfx = "*"
 pymongo = "*"
 python-docx = "*"
 seaborn = "*"
+statsmodels = "*"
 
 [dev-packages]
 
