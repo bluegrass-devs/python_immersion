@@ -5,8 +5,8 @@ This is a course focusing on Python for data science. There are 5 initial sectio
 1. [Introduction to Python Programming Language - Part 1](notebooks/Python_01_Introduction.ipynb)
 2. [Introduction to Python Programming Language - Part 2](notebooks/Python_02_Introduction.ipynb)
 3. [Data Collection - Part 3](notebooks/Python_03_Data_Collection.ipynb)
-4. Data Analysis
-5. Data Visualization
+4. [Data Analysis - Part 4](notebooks/Python_04_Analysis.ipynb)
+5. [Data Visualization - Part 5]()
 
 Following sections will focus on machine learning and advanced data topics.
 
