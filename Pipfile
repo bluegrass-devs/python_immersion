@@ -19,6 +19,8 @@ python-docx = "*"
 seaborn = "*"
 statsmodels = "*"
 bokeh = "*"
+altair = "*"
+vega-datasets = "*"
 
 [dev-packages]
 
