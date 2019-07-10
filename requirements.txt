@@ -1,17 +1,17 @@
-jupyterlab = "*"
-pandas = "*"
-wordcloud = "*"
-matplotlib = "*"
-numpy = "*"
-requests = "*"
-datadotworld = "*"
-"beautifulsoup4" = "*"
-lxml = "*"
-pdfx = "*"
-pymongo = "*"
-python-docx = "*"
-seaborn = "*"
-statsmodels = "*"
-bokeh = "*"
-altair = "*"
-vega-datasets = "*"
+jupyterlab
+pandas
+wordcloud
+matplotlib
+numpy
+requests
+datadotworld
+bs4
+lxml
+pdfx
+pymongo
+python-docx
+seaborn
+statsmodels
+bokeh
+altair
+vega-datasets

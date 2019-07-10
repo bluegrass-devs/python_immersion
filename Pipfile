@@ -1,7 +1,9 @@
 [[source]]
+name = "pypi"
 url = "https://pypi.org/simple"
 verify_ssl = true
-name = "pypi"
+
+[dev-packages]
 
 [packages]
 jupyterlab = "*"
@@ -11,7 +13,7 @@ matplotlib = "*"
 numpy = "*"
 requests = "*"
 datadotworld = "*"
-"beautifulsoup4" = "*"
+bs4 = "*"
 lxml = "*"
 pdfx = "*"
 pymongo = "*"
@@ -20,9 +22,7 @@ seaborn = "*"
 statsmodels = "*"
 bokeh = "*"
 altair = "*"
-vega-datasets = "*"
-
-[dev-packages]
+vega_datasets = "*"
 
 [requires]
 python_version = "3.7"
